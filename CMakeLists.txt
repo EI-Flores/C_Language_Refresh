@@ -10,6 +10,8 @@ add_executable(variables src/basics/02_variables.c)
 add_executable(control_flow src/basics/03_control_flow.c)
 add_executable(funtions src/basics/04_functions.c)
 add_executable(arrays src/basics/05_arrays.c)
+add_executable(pointers src/basics/06_pointers.c)
+add_executable(structs src/basics/07_structs.c)
 
 # ================= Projects =================
 # add_executable(calculator src/projects/calculator/calculator.c)
