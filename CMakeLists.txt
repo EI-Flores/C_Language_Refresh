@@ -12,6 +12,7 @@ add_executable(funtions src/basics/04_functions.c)
 add_executable(arrays src/basics/05_arrays.c)
 add_executable(pointers src/basics/06_pointers.c)
 add_executable(structs src/basics/07_structs.c)
+add_executable(file_io src/basics/08_file_io.c)
 
 # ================= Projects =================
 # add_executable(calculator src/projects/calculator/calculator.c)
