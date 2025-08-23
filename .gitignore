@@ -1,0 +1,14 @@
+# JetBrains
+.idea/
+cmake-build-*/
+# CMake
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+# Binaries
+*.exe
+*.out
+*.obj
+*.o
+# Misc
+.DS_Store
