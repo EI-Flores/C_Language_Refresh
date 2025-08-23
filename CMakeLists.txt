@@ -8,6 +8,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 add_executable(hello_world src/basics/01_hello_world.c)
 add_executable(variables src/basics/02_variables.c)
 add_executable(control_flow src/basics/03_control_flow.c)
+add_executable(funtions src/basics/04_functions.c)
 
 # ================= Projects =================
 # add_executable(calculator src/projects/calculator/calculator.c)
