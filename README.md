@@ -1,3 +1,6 @@
+![CI](https://github.com/EI-Flores/C_Language_Refresh/actions/workflows/ci.yml/badge.svg)
+
+
 <h1 align="center">🌐 C Language Refresh</h1>
 <p align="center">
   A structured review of the <b>C programming language (C17)</b>, built with <b>CMake</b> and <b>CLion</b>.  
