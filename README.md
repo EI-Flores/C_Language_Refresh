@@ -31,7 +31,7 @@ All basics are implemented as **separate executables** under `src/basics/`:
 
 ---
 
-## 🚀 Mini-Projects (coming next)
+## 🚀 Mini-Projects
 
 Mini-projects will be implemented under `src/projects/`:
 
